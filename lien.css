@@ -125,7 +125,7 @@ h2{
 @media screen and (max-width : 1100px){
     .ecran {
         display: block;
-        height: 500vh;
+        height: 300vh;
         align-items: center;
     }
 
